@@ -1,0 +1,9 @@
+/node_modules
+/package-lock.json
+/yarn-error.log
+/yarn.lock
+/src/recorder.ts
+/dist/bundle.js
+/dist/bundle.js.map
+/dist/bundle-development.js
+/dist/bundle-development.js.map
